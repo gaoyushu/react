@@ -5,21 +5,20 @@ import List from "./List";
 export default class Home extends Component {
   render() {
     let url = window.location.pathname;
-    // console.log(window.location);
-    
+
     return (
       <div className="panel">
         <div className="header">
-          <Link className={"topic-tab"} to={url + "?tab=all"}>
+          <Link className={"topic-tab"} to={{pathname: url,search: "?tab=all"}}>
             全部
           </Link>
-          <Link className={"topic-tab"} to={url + "?tab=good"}>
+          <Link className={"topic-tab"} to={{pathname: url,search: "?tab=good"}}>
             精华
           </Link>
-          <Link className={"topic-tab"} to={url + "?tab=share"}>
+          <Link className={"topic-tab"} to={{pathname: url,search: "?tab=share"}}>
             分享
           </Link>
-          <Link className={"topic-tab"} to={url + "?tab=job"}>
+          <Link className={"topic-tab"} to={{pathname: url,search: "?tab=job"}}>
             工作
           </Link>
         </div>

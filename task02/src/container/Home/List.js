@@ -6,6 +6,7 @@ export default class List extends Component {
     this.state = {
       data: []
     };
+    console.log(window.location);
   }
   componentDidMount() {
     let search = this.props.location.search;
