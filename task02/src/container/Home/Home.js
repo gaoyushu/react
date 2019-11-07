@@ -4,8 +4,9 @@ import List from "./List";
 
 export default class Home extends Component {
   render() {
-    let url = this.props.match.url; //跳到当前的路由
-    // console.log(this.props);
+    let url = window.location.pathname;
+    // console.log(window.location);
+    
     return (
       <div className="panel">
         <div className="header">

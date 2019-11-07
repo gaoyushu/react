@@ -30,7 +30,7 @@ export default class List extends Component {
   }
 
   render() {
-    let search = this.props.location.search.split("&")[0];
+    let search = window.location.search.split("&")[0];
     let page = [1, 2, 3, 4, 5, 6, 7, 8, 9, 10];
 
     let list = this.state.data.map((item, idx) => {
