@@ -5,7 +5,7 @@ import List from "./List";
 export default class Home extends Component {
   render() {
     let url = this.props.match.url; //跳到当前的路由
-    console.log(this.props);
+    // console.log(this.props);
     return (
       <div className="panel">
         <div className="header">

@@ -13,7 +13,7 @@ export default class List extends Component {
       .then(res => res.json())
       .then(res => {
         this.setState({ data: res.data });
-        console.log("componentDidMount: ", this.state.data);
+        // console.log("componentDidMount: ", this.state.data);
       });
   }
 
@@ -24,7 +24,7 @@ export default class List extends Component {
         .then(res => res.json())
         .then(res => {
           this.setState({ data: res.data });
-          console.log("componentDidUpdate: ", this.state.data);
+          // console.log("componentDidUpdate: ", this.state.data);
         });
     }
   }
