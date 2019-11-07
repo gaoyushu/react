@@ -4,7 +4,7 @@ import List from "./List";
 
 export default class Home extends Component {
   render() {
-    let url = window.location.pathname;
+    let url = this.props.match.url;
 
     return (
       <div className="panel">
