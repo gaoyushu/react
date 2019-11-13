@@ -7,17 +7,17 @@ const data2 = [
   {
     text: "热门品牌",
     icon:
-      "http://m.qpic.cn/psb?/V14cmF3P4K82ah/2QTHwfW1lan5*cUTlKC3Gkvjpa8txT1Xzt*5GPX4GBY!/b/dMMAAAAAAAAA&bo=SgHcAAAAAAADB7U!&rf=viewer_4"
+      "http://m.qpic.cn/psb?/V14cmF3P4K82ah/BAW0w4oO*JZNcFFTwsMBU6gYFPZ1doNg7iK5vnVpAJw!/b/dL8AAAAAAAAA&bo=SQL0AQAAAAARB44!&rf=viewer_4"
   },
   {
     text: "私人搭配师",
     icon:
-      "http://m.qpic.cn/psb?/V14cmF3P4K82ah/2QTHwfW1lan5*cUTlKC3Gkvjpa8txT1Xzt*5GPX4GBY!/b/dMMAAAAAAAAA&bo=SgHcAAAAAAADB7U!&rf=viewer_4"
+      "http://m.qpic.cn/psb?/V14cmF3P4K82ah/BAW0w4oO*JZNcFFTwsMBU6gYFPZ1doNg7iK5vnVpAJw!/b/dL8AAAAAAAAA&bo=SQL0AQAAAAARB44!&rf=viewer_4"
   },
   {
     text: "选购指南",
     icon:
-      "http://m.qpic.cn/psb?/V14cmF3P4K82ah/2QTHwfW1lan5*cUTlKC3Gkvjpa8txT1Xzt*5GPX4GBY!/b/dMMAAAAAAAAA&bo=SgHcAAAAAAADB7U!&rf=viewer_4"
+      "http://m.qpic.cn/psb?/V14cmF3P4K82ah/BAW0w4oO*JZNcFFTwsMBU6gYFPZ1doNg7iK5vnVpAJw!/b/dL8AAAAAAAAA&bo=SQL0AQAAAAARB44!&rf=viewer_4"
   }
 ];
 

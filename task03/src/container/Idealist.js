@@ -3,7 +3,7 @@ import React, { Component } from "react";
 let data = [
   {
     img:
-      "http://b216.photo.store.qq.com/psb?/V14cmF3P0wK1jN/yCf3BRO3fTRLEovevvQd74QEccekDCGUjr6NsT80u6M!/b/dNgAAAAAAAAA&bo=0ALQAtAC0AIRCT4!&rf=viewer_4",
+      "http://m.qpic.cn/psb?/V14cmF3P4K82ah/BAW0w4oO*JZNcFFTwsMBU6gYFPZ1doNg7iK5vnVpAJw!/b/dL8AAAAAAAAA&bo=SQL0AQAAAAARB44!&rf=viewer_4",
     user: "Gluneko",
     head:
       "http://b272.photo.store.qq.com/psb?/V14cmF3P0wK1jN/sBIjg8OU5Tq.giESuSxl8lySEPP*0BmihcB.WmuPTg4!/b/dBABAAAAAAAA&bo=IAMgAyADIAMRCT4!&rf=viewer_4"
